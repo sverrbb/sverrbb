@@ -2,6 +2,7 @@
 
 I am a informatics student at the University of Oslo, currently pursuing a degree in programming and systems architecture. Here you will find some of the projects I have worked on as part of the courses I have taken during my time at the university as well as some personal projects that I have worked on.
 
+
 ## Technologies I have experience with
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
@@ -12,3 +13,6 @@ I am a informatics student at the University of Oslo, currently pursuing a degre
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 
+
+## My stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sverrbb&hide=css,html)
