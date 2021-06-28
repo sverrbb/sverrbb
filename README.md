@@ -12,7 +12,3 @@ I am a informatics student at the University of Oslo, currently pursuing a degre
 ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-
-
-## My stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sverrbb&hide=css,html)
