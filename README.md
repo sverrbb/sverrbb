@@ -1,6 +1,6 @@
 ## Hello, I’m Sverre 👋 Welcome to my profile!
 
-I am a informatics student at the University of Oslo, currently pursuing a degree in programming and systems architecture. Here you will find some of the projects I have worked on as part of the courses I have taken during my time at the university as well as some personal projects that I have worked on.
+I am a student at the University of Oslo, currently pursuing a degree in Informatics. Here you will find some of the projects I have worked on as part of the courses I have taken during my time at the university as well as some personal projects that I have worked on.
 
 
 ## Technologies I have experience with
